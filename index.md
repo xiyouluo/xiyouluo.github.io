@@ -22,7 +22,7 @@ I'm a third-year student at **Peking University** 🏫, one of the top two unive
 *2024*
 
 - Working in Prof. Ji Chen’s research group, focusing on the research and application of the kinetic Monte Carlo (KMC) method in computational physics.
-- Developed a Python‑based KMC simulator to study physical systems at the microscopic level.
+- Developing a Python‑based KMC simulator to study physical systems at the microscopic level.
 - Investigating the reaction mechanisms like the growth of species on substrates using machine learning potentials, which are models that predict interactions between materials based on machine learning.
 
 ### Intelligence Graphics Computing Lab
